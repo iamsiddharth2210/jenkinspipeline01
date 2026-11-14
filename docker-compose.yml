@@ -1,0 +1,8 @@
+services:
+  portfolio:
+    build: .
+    image: portfolio-website:latest
+    container_name: portfolio-website
+    ports:
+      - "${HOST_PORT:-80}:80"
+    restart: unless-stopped
