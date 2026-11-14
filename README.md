@@ -79,5 +79,6 @@ Contributions are welcome! If you'd like to improve the design, add new features
    ```
 5. Open a **Pull Request** and explain what your feature or fix does.
 
-Please ensure that your contributions follow the coding standards and maintain the website's responsiveness across all screen sizes
+Please ensure that your contributions follow the coding standards and maintain the website's responsiveness across all screen sizes.
+
 
